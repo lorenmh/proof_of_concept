@@ -1,0 +1,3 @@
+[submodule "hq_mod"]
+	path = hq_mod
+	url = https://github.com/lorenmh/hq_mod
